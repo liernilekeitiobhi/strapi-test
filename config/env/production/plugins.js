@@ -1,0 +1,3 @@
+'google-auth': {
+    enabled: true,
+}
